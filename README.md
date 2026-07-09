@@ -1,5 +1,5 @@
 # Hi, I'm Aziz Akhmedov 🚀
-
+![Coding Demo](demo.gif)
 <!-- Dynamic Typing Animation (Acts like a high-end GIF) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3399FF&width=435&lines=Computer+Science+Undergrad;Full-Stack+SaaS+Architect;Quantitative+Utility+Developer)](https://git.io/typing-svg)
 
