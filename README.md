@@ -8,7 +8,7 @@ Computer Science undergraduate specialized in full-stack development, multi-tena
 * 📈 Optimizing AI-driven data pipelines
 * ⚡ Driven by high-velocity development
 
-<div style="clear: both;"></div>
+<br clear="all" />
 
 ---
 
