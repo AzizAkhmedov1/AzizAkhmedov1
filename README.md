@@ -1,4 +1,4 @@
-<img src="demo2.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
+<img src="demo2gif.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
 
 # Hi, I'm Aziz Akhmedov 🚀
 
