@@ -1,4 +1,4 @@
-# Hi, I'm Aziz Akhmedov 🚀
+
 <img src="demo1.gif" width="100%" />
 
 
