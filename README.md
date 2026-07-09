@@ -8,7 +8,7 @@ Computer Science undergraduate specialized in architecting full-stack, multi-ten
 * 📈 Optimizing AI-driven data pipelines
 * ⚡ Driven by high-velocity development
 
-<br clear="right"/>
+<div style="clear: both;"></div>
 
 ---
 
