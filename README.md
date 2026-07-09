@@ -1,8 +1,8 @@
-<img src="demo2gif.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
-
 # Hi, I'm Aziz Akhmedov 🚀
 
-Computer Science undergraduate specialized in architecting full-stack, multi-tenant SaaS applications and quantitative utilities.
+<img src="demo2gif.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
+
+Computer Science undergraduate specialized in full-stack development, multi-tenant SaaS apps, and trading apps.
 
 * 🚚 Currently scaling **Fleety TMS**
 * 📈 Optimizing AI-driven data pipelines
