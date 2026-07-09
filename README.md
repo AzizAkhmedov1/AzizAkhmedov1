@@ -1,6 +1,7 @@
 # Hi, I'm Aziz Akhmedov 🚀
 
-Computer Science undergraduate specialized in architecting full-stack, multi-tenant SaaS applications and quantitative utilities.
+<!-- Dynamic Typing Animation (Acts like a high-end GIF) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3399FF&width=435&lines=Computer+Science+Undergrad;Full-Stack+SaaS+Architect;Quantitative+Utility+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -14,7 +15,7 @@ Computer Science undergraduate specialized in architecting full-stack, multi-ten
 
 ### ⚡ Featured Projects
 
-* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics ecosystem featuring carrier data isolation and automated dispatch dispatch flows.
+* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics platform featuring carrier data isolation and automated dispatch dispatch workflows.
 * **📈 [AI Investment Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)** — Financial intelligence utility parsing real-time market headline sentiment patterns for automated strategy generation.
 
 ---
