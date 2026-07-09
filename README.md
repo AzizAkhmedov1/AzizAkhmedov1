@@ -1,7 +1,14 @@
+<img src="demo1.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
 
-<img src="demo1.gif" width="100%" />
+# Hi, I'm Aziz Akhmedov 🚀
 
+Computer Science undergraduate specialized in architecting full-stack, multi-tenant SaaS applications and quantitative utilities.
 
+* 🚚 Currently scaling **Fleety TMS**
+* 📈 Optimizing AI-driven data pipelines
+* ⚡ Driven by high-velocity development
+
+<br clear="right"/>
 
 ---
 
@@ -15,7 +22,7 @@
 
 ### ⚡ Featured Projects
 
-* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics platform featuring carrier data isolation and automated dispatch dispatch workflows.
+* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics platform featuring carrier data isolation and automated dispatch workflows.
 * **📈 [AI Investment Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)** — Financial intelligence utility parsing real-time market headline sentiment patterns for automated strategy generation.
 
 ---
