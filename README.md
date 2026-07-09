@@ -1,42 +1,24 @@
-# Hi, I'm Aziz Akhmedov 👋
+# Hi, I'm Aziz Akhmedov 🚀
 
-I am a Computer Science undergraduate specializing in full-stack software engineering, multi-tenant SaaS architectures, and quantitative utilities.
-
-- 🔭 I’m currently developing **Fleety TMS**, an enterprise-grade logistics and dispatch ecosystem.
-- ⚡ Fun fact: I enjoy competitive strategy optimization both in software architecture and strategic gaming platforms.
+Computer Science undergraduate specialized in architecting full-stack, multi-tenant SaaS applications and quantitative utilities.
 
 ---
 
-### 🚀 Technical Toolbox
+### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, C |
-| **Frameworks** | Next.js, React, Tailwind CSS, Flask, FastAPI |
-| **Databases & Tools**| PostgreSQL, SQLAlchemy, Git, GitHub Codespaces, Docker |
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🛠️ Featured Production Highlights
+### ⚡ Featured Projects
 
-#### 🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)
-A multi-tenant Transportation Management System designed for end-to-end logistics routing, carrier data isolation, and dispatch automation interfacing Next.js with a Python/FastAPI service layer.
-* **Stack:** Next.js, TypeScript, Tailwind CSS, FastAPI, PostgreSQL
-
-#### 📈 [AI Investment Research Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)
-An AI-powered financial intelligence utility utilizing language models to ingest real-time market headlines, parse sentiment patterns, and output structured investment strategies.
-* **Stack:** Python, Flask, OpenAI API, JavaScript, Tailwind CSS
+* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics ecosystem featuring carrier data isolation and automated dispatch dispatch flows.
+* **📈 [AI Investment Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)** — Financial intelligence utility parsing real-time market headline sentiment patterns for automated strategy generation.
 
 ---
 
-### 📊 System Performance
+### 📬 Connect with Me
 
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizAkhmedov1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizAkhmedov1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
-### 📬 Let's Connect
-
-* **Email:** [aziz.akhmedov.dev@gmail.com](mailto:aziz.akhmedov.dev@gmail.com)
-* **LinkedIn:** [linkedin.com/in/aziz-akhmedov-b1548936b](https://linkedin.com/in/aziz-akhmedov-b1548936b)
+[Email](mailto:aziz.akhmedov.dev@gmail.com) • [LinkedIn](https://linkedin.com/in/aziz-akhmedov-b1548936b)
