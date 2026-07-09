@@ -1,5 +1,5 @@
 # Hi, I'm Aziz Akhmedov 🚀
-<img src="demo.gif" width="100%" />
+<img src="demo1.gif" width="100%" />
 
 
 
