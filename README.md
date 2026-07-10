@@ -1,6 +1,6 @@
 # Hi, I'm Aziz Akhmedov 👋
 
-Computer Science undergraduate specializing in full-stack engineering, multi-tenant SaaS architectures, and high-performance quantitative applications.
+Computer Science undergraduate specializing in full-stack engineering, multi-tenant SaaS apps, and high-performance quantitative apps.
 
 ---
 
