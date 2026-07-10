@@ -1,32 +1,36 @@
-# Hi, I'm Aziz Akhmedov 🚀
+# [cite_start]Hi, I'm Aziz Akhmedov 👋 [cite: 1]
 
-<img src="demo2gif.gif" align="right" width="320" style="border-radius: 8px; margin-left: 20px;" />
-
-Computer Science undergraduate specialized in full-stack development, multi-tenant SaaS apps, and trading apps.
-
-* 🚚 Currently scaling **Fleety TMS**
-* 📈 Optimizing AI-driven data pipelines
-* ⚡ Driven by high-velocity development
-
-<br clear="all" />
+[cite_start]Computer Science undergraduate specialized in full-stack development, multi-tenant SaaS architectures, and high-performance applications[cite: 5, 7, 14, 17, 20].
 
 ---
 
 ### 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* [cite_start]**Languages:** Python, Java, C++, SQL, JavaScript, TypeScript [cite: 41]
+* [cite_start]**Frameworks:** React, Next.js, FastAPI, Flask, Streamlit, Tailwind CSS [cite: 42]
+* [cite_start]**Developer Tools & Databases:** Git, GitHub, AWS, PostgreSQL, MySQL, SQLAlchemy, Alembic [cite: 43]
+* [cite_start]**Libraries & Protocols:** Pandas, NumPy, Asyncio, WebSockets [cite: 44]
 
 ---
 
-### ⚡ Featured Projects
+### ⚡ Featured Production Highlights
 
-* **🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** — Multi-tenant SaaS logistics platform featuring carrier data isolation and automated dispatch workflows.
-* **📈 [AI Investment Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)** — Financial intelligence utility parsing real-time market headline sentiment patterns for automated strategy generation.
+* [cite_start]**🚚 [Fleety TMS](https://github.com/AzizAkhmedov1/Fleety-Showcase)** [cite: 9]
+  * [cite_start]Architected a full-stack multi-tenant Transportation Management System (TMS) utilizing a Next.js frontend and FastAPI backend with PostgreSQL[cite: 14].
+  * [cite_start]Integrated Google Maps API to deliver real-time fleet tracking dashboards rendering live asset locations[cite: 15].
+  * [cite_start]Mitigated IDOR vulnerabilities by enforcing strict secure multi-tenant structures via UUID validation safeguards[cite: 17].
+  * [cite_start]Accelerated database performance by **45% for high-frequency operations** through targeted indexing strategies and managed schema migrations with Alembic[cite: 18, 19].
+  * [cite_start]*Stack:* Next.js, React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, Alembic [cite: 9]
+
+* [cite_start]**📈 [AI Investment & Quant Assistant](https://github.com/AzizAkhmedov1/AI-Investment-Research-Assistant)** [cite: 2, 20]
+  * [cite_start]Developed high-performance data processing pipelines using Pandas and NumPy to execute complex real-time calculations under **100ms latency**[cite: 25].
+  * [cite_start]Built data aggregation layers to stream market lines and data feeds using asyncio and WebSockets[cite: 22].
+  * [cite_start]Formulated analytic frameworks emphasizing Kelly Criterion-based bankroll optimization for risk-adjusted decision making[cite: 24].
+  * [cite_start]*Stack:* Python, FastAPI, WebSockets, Asyncio, React, Pandas, NumPy, Flask [cite: 20, 42]
 
 ---
 
 ### 📬 Connect with Me
 
-[Email](mailto:aziz.akhmedov.dev@gmail.com) • [LinkedIn](https://linkedin.com/in/aziz-akhmedov-b1548936b)
+* [cite_start]**Email:** [aziz.akhmedov.dev@gmail.com](mailto:aziz.akhmedov.dev@gmail.com) [cite: 2]
+* [cite_start]**LinkedIn:** [linkedin.com/in/aziz-akhmedov-dev](https://linkedin.com/in/aziz-akhmedov-dev) [cite: 2]
