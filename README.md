@@ -8,7 +8,7 @@ Computer Science undergraduate specializing in full-stack engineering, multi-ten
 
 * **Languages:** Python, Java, C++, SQL, JavaScript, TypeScript
 * **Frameworks:** React, Next.js, FastAPI, Flask, Streamlit, Tailwind CSS
-* **Tools & Databases:** Git, GitHub, AWS, PostgreSQL, MySQL, SQLAlchemy, Alembic
+* **Tools & Databases:** Git, GitHub, AWS, PostgreSQL, MySQL, SQLAlchemy, Alembic, Vercel, Render, Cloudflare, Docker
 * **Libraries & Protocols:** Pandas, NumPy, Asyncio, WebSockets
 
 ---
